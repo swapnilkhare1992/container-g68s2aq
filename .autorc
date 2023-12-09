@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "swapnilkhare1992",
+  "repo": "container-g68s2aq",
+  "name": "swapnilkhare1992",
+  "email": "128193740+swapnilkhare1992@users.noreply.github.com",
+}
